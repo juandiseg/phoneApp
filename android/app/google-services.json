@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993561624272",
+    "project_id": "eatnbeat-4a0f4",
+    "storage_bucket": "eatnbeat-4a0f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993561624272:android:aafae896f813fb39d4a8d5",
+        "android_client_info": {
+          "package_name": "com.example.eatnbeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993561624272-4mdirhukv17l00stqcjm3pa49tdellfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9NDSU_bmdaD7IHbEVJhgXvFXhPHSu-tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993561624272-4mdirhukv17l00stqcjm3pa49tdellfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
